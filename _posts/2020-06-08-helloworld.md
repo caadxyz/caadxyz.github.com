@@ -4,6 +4,8 @@ title: "Hello World"
 permalink: "blog/helloworld"
 categories:
   - blog
+  - zh
+  - en
 comments_id: 1
 ---
 
