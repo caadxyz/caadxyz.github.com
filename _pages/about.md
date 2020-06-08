@@ -10,4 +10,4 @@ Passionate about Making CAAD Things...
 
 ---------
 
-You can find us on [GitHub](https://github.com/mahaidong) and [Twitter](https://twitter.org/microartisan).  
+You can find us on [GitHub](https://github.com/caadxyz) and [Twitter](https://twitter.org/ma_haidong).  
