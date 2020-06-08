@@ -1,0 +1,15 @@
+---
+---
+[
+	{% for post in site.posts %}
+		{% if post.doNotIndex != true %}
+			{
+			  "title"    : "{{ post.title | escape }}",
+			  "category" : "{{ post.category }}",
+			  "url"     : "{{ post.url }}",
+			  "date"     : "{{ post.date }}",
+	          "content"  : "{{ post.content | strip_html | strip_newlines }}"
+			} {% if forloop.last %}{% else %},{% endif %}
+		{% endif %}
+	{% endfor %}
+]

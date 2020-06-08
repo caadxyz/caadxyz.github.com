@@ -1,0 +1,65 @@
+.blog {
+	margin-top: 0;
+	padding: 1.5rem 2rem;
+
+	@include mq(tabletl) {
+		padding: 1.5rem 3rem
+	}
+}
+
+.blog-post {
+	margin-top: 2rem;
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+.blog-post__image {
+	margin-top: 1rem;
+	display: block;
+	width: 100%;
+	height: 0;
+	padding-bottom: 56.25%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.blog-post__content {
+	margin-top: 1rem;
+
+	p .button {
+		margin-top: .2rem;
+	}
+}
+
+.blog-post__title {}
+
+.blog-post__subtitle {
+	margin-top: .2rem;
+	opacity: .6;
+}
+
+.pagination {
+	margin-top: 0;
+	padding: 2rem 1rem 0;
+}
+
+.pagination__prev,
+.pagination__next {
+	.button {
+		display: block;
+		text-align: center;
+	}
+}
+
+.pagination__prev {
+	float: left;
+	padding-right: 1em;
+}
+
+.pagination__next {
+	float: right;
+	padding-left: 1em;
+}
