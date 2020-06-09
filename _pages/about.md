@@ -12,6 +12,10 @@ description: We make things...
 * [DeBoor Algorithm for Nurbs](https://github.com/caadxyz/DeBoorAlgorithmNurbs)
 * [caad tools for autolisp](https://github.com/caadxyz/caad4lisp)
 
+**How to join in?**
+
+Welcome to everyone who passionate about computer-based architectural design.  
+You can find us on [GitHub](https://github.com/caadxyz)
 
 **Trusted by:**
 
