@@ -15,5 +15,5 @@ description: We make things...
 
 **Trusted by:**
 
-![trusted01](images/trusted01.png)
+![trusted01](assets/images/trusted01.png)
 
