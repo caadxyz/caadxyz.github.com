@@ -36,3 +36,5 @@ ProT
 ```
 
 Done!
+
+More detail : https://jekyllrb.com/docs/posts
