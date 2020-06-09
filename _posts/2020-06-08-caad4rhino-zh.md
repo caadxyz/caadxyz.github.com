@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caad4Rhino:建筑绘图工具插件"
-permalink: "blog/caad4rhino"
+permalink: "blog/caad4rhino-zh"
 categories:
   - tools
   - zh
@@ -12,6 +12,7 @@ comments_id: 2
 * verion 0.0.1  
 * 版权 (c) 2019-2020 马海东
 * 由ikuku.cn & caad.xyz 提供支持
+* [English](/blog/caad4rhino-en)
 
 ![caad4rhino](/assets/images/1-caad4rhino/caad4rhino-w.png)
 
@@ -83,6 +84,8 @@ Python跨平台,这意味着这个插件可以在Windows和Mac版本的Rhino中�
 ![line2wall](/assets/images/1-caad4rhino/line2wall.gif)
 ![opening](/assets/images/1-caad4rhino/opening.gif)
 ![dim](/assets/images/1-caad4rhino/dim.gif)
+![dimscale](/assets/images/1-caad4rhino/dimscale.gif)
+![frame](/assets/images/1-caad4rhino/frame.gif)
 
 ### 许可证(LGPL-3.0)
 

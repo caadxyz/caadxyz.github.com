@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "建筑师为什么要会python编程?"
-permalink: "blog/whycoding"
+permalink: "blog/whycoding-zh"
 categories:
   - tutorial
   - zh
@@ -9,6 +9,7 @@ comments_id: 3
 ---
 
 作者: 马海东  
+[English](/blog/whycoding-en)
 
 ![00](/assets/images/2-whycoding/00.jpg)
 
