@@ -6,7 +6,7 @@
 bundle exec jekyll serve  
 ```
 
-**how to write a post? **
+**how to write a post?**
 
 To create a post, add a file to your `_posts` directory with the following format:
 
