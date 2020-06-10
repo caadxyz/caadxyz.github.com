@@ -11,7 +11,7 @@ comments_id: 2
 * verion 0.0.1  
 * Copyright (c) 2019-2020 mahaidong
 * Supported by ikuku.cn & caad.xyz 
-* [中文说明](/blog/caad4rhino-zh)
+* [中文](/blog/caad4rhino-zh)
 
 ![caad4rhino](/assets/images/1-caad4rhino/caad4rhino-w.png)
 
