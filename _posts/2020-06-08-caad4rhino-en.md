@@ -2,6 +2,7 @@
 layout: post
 title: "Caad4Rhino: a drawing tool"
 permalink: "blog/caad4rhino-en"
+featured_image: /assets/images/1-caad4rhino/caad4rhino-w.png
 categories:
   - tools
   - en

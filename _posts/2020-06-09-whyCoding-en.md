@@ -2,6 +2,7 @@
 layout: post
 title: "why architects should coding?"
 permalink: "blog/whycoding-en"
+
 categories:
   - tutorial
   - en

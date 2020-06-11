@@ -1,7 +1,10 @@
 **how to run in local**:  
 
 ```
+# without drafts
 bundle exec jekyll serve  
+# with drafts
+bundle exec jekyll serve  --drafts 
 ```
 
 **how to write a post?**
