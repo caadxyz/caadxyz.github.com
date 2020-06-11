@@ -1,6 +1,17 @@
-### De Boor's Algorithm
+---
+layout: post
+title: "DeBoor算法插件"
+permalink: "blog/deboor-algorithm-zh"
+featured_image: /assets/images/4-deboor/deboor-spline.gif
+categories:
+  - tutorial
+  - zh
+comments_id: 6
+---
 
 De Boor的算法是对de Casteljau算法的普遍化。它提供了一种快速、稳定的数值方法，给定一个U可以在B-spline曲线上找到一个给定域中的u的点。
+
+![deboor](/assets/images/4-deboor/deboor-spline.gif)
 
 De Boor's algorithm is a generalization of de Casteljau's algorithm. It provides a fast and numerically stable way for finding a point on a B-spline curve given a u in the domain.
 
