@@ -25,6 +25,7 @@ social_settings:
   amazon_url: ''
   github_url: 'https://github.com/caadxyz'
   kickstarter_url: ''
+  jp_url: '/category/jp'
   zh_url: '/category/zh'
   en_url: '/category/en'
   spotify_url: ''
