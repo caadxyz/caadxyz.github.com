@@ -39,3 +39,7 @@ ProT
 Done!
 
 More detail : https://jekyllrb.com/docs/posts
+
+
+**How to join in?**  
+Welcome to everyone who passionate about computer-based architectural design.
