@@ -14,8 +14,8 @@ description: We make things...
 
 **Provide CAAD Service:**
 
-* program training
-* Geometry: Coordinate Setting, rationalize 3D module, Quantitative Analysis, Cost Analysis
+* Program Training
+* Geometry: coordinate setting, rationalize 3d module, quantitative analysis, cost analysis
 * Algorithm, Simulation, Automation 
 * Digital Fabrication
 
