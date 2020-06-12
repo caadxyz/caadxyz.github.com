@@ -17,6 +17,7 @@ description: We make things...
 * program training
 * Geometry: Coordinate Setting, rationalize 3D module, Quantitative Analysis, Cost Analysis
 * Algorithm, Simulation, Automation 
+* Digital Fabrication
 
 **How to join in?**
 
