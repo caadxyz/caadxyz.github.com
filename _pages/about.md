@@ -12,6 +12,11 @@ description: We make things...
 * [DeBoor Algorithm for Nurbs](https://github.com/caadxyz/DeBoorAlgorithmNurbs)
 * [caad tools for autolisp](https://github.com/caadxyz/caad4lisp)
 
+**Provide CAAD Service:**
+
+* Geometry: Coordinate Setting, rationalize 3D module, Quantitative Analysis, Cost Analysis
+* Algorithm, Simulation, Automation 
+
 **How to join in?**
 
 Welcome to everyone who passionate about computer-based architectural design.  
