@@ -13,7 +13,7 @@ description: We make things...
 
 **Provide CAAD Service:**
 
-* Program Training
+* Python, c# Training for Architects
 * BIM & Geometry: coordinate setting, rationalize 3d module, quantitative analysis, cost analysis
 * Algorithm, Simulation, Automation 
 * Digital Fabrication
