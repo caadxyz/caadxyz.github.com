@@ -1,4 +1,13 @@
-# 曲线系列: 计算机曲线spline简史(转载)
+---
+
+layout: post
+title: "计算机曲线spline简史(转载)"
+permalink: "blog/splinehistory-zh"
+categories:
+  - zh
+comments_id: 9
+
+---
 
 **作者**: Alastair Townsend (经过作者亲自授权)  
 **英文网址**: http://www.alatown.com/spline-history-architecture  
@@ -28,7 +37,7 @@ Catia和NURBS的起源都可以追溯到20世纪60年代的巴黎，在那里，
 
 ### 从弓到船 - 机械spline
 
-![wigwam](images/9-splineHistory/01-wigwam-585x413.png)
+![wigwam](/assets/images/9-splineHistory/01-wigwam-585x413.png)
 
 图1：来自中石器时代定居点的证据，以及像美洲土著人本土棚屋结构所示，这是一种最简单的住所形式，是将杆子夯成圆形，向内弯曲，然后将它们捆绑在一起，形成一个坚固的圆顶花格。
 
@@ -36,7 +45,7 @@ Catia和NURBS的起源都可以追溯到20世纪60年代的巴黎，在那里，
 
 中石器时代定居点的证据以及许多土著文化的证据显示，原始的住所是以类似的方式建造的[ii]。相对立的两根树杆的顶部被钉在一起，形成一个整体的穹顶状的花格子，并被兽皮、树皮或草覆盖。每根木杆的弹性产生了一个拱形，这是一个最佳的结构形状，在受压的情况下，给原始的穹顶赋予了强度和刚性（见图1）。
 
-![shipbodyplan](images/9-splineHistory/02-shipbodyplan-585x585.jpg)
+![shipbodyplan](/assets/images/9-splineHistory/02-shipbodyplan-585x585.jpg)
 
 图2：由叠加建造几何形状组成的船体平面图。像这样的横断面记录了合同订单上的船舶。外侧构件（标有图E/F）是中舱模具。每个横断面的部分都与可重构模具上的相应部件有索引。
 资料来源。来源：William Sutherland, The Shipbuilders Assistant: or, Some Essays Towardsting the Art of Marine Architecture (London, 1711), 82。
@@ -45,13 +54,13 @@ Catia和NURBS的起源都可以追溯到20世纪60年代的巴黎，在那里，
 
 罗马人使用全尺寸的木制模板，或者说是模具，制造出可变的木制肋骨来加固他们的船体[iii]。当铺上木板时，这些骨架肋骨支撑着船体的光滑轮廓(见图2)。每根肋骨的弯曲轮廓都是由可重构的主模板绘制出来的，该模板由一块块弧形和直木片组成。模板上的刻度线标明了每根肋骨的位置。利用这种早期的参数化方法，可以用一个模板制造出一个相同的船队。
 
-![spline](images/9-splineHistory/03-spline-585x389.jpg)
+![spline](/assets/images/9-splineHistory/03-spline-585x389.jpg)
 
 图3：被称为 "ducks"的钩状砝码，可以准确地固定一条spline--在这里，仅仅一条薄薄的桦木条--用于描画船体。资料来源：Edson International
 
 这种做法在整个地中海北部地区一直延续到17世纪[iv]。随着造船从一门手艺发展到一门科学，图纸取代了全尺寸的木制模板。绘制肋骨和龙骨图案的做法被称为lofting设计，因为车间上方的阁楼(loft)是唯一的干燥无遮挡的地面空间，足以容纳1:1的定型过程。长长的曲线是由一条薄薄的柔性木条或钢筋划到木材上，称为spline（见图3）。spline是由一系列三个或更多的钩状金属砝码（称为鸭子）弯曲并固定在一个平面上。当长的弹性spline努力恢复其原始的直线度时，整个弹性spline的应力分布均匀，保证了最佳的平滑、美观和机械上的良好曲率。这种均匀光滑的质量被造船家称为 "fairness"，因为它能最大限度地减少船舶在水中的阻力，所以被誉为 "fairness"。到了16世纪，欧洲造船业者已经开始依赖较小的比例尺图纸来进行绘制设计和施工文件。手持式的机械制图spline被发明出来，用来绘制重叠的正交投影和横断面图，从而确定了船舶的关键基础几何形状。然而，在将图纸转化为全尺寸的零件时，造船厂家至今仍采用传统的lofting技术，使用spline进行loft。
 
-![spline](images/9-splineHistory/04-Burmester-French-Curves-585x726.png)
+![spline](/assets/images/9-splineHistory/04-Burmester-French-Curves-585x726.png)
 
 图4：德国运动学家和地质学家Ludwig Burmester设计的一组曲尺，如1904年Otto Lueger的Lexikon der gesamten Technik(技术词典)中的说明。
 资料来源：Wikipedia contributors, "French curve"。维基百科撰稿人，"法式曲线"，维基百科，自由百科全书。
@@ -60,7 +69,7 @@ Catia和NURBS的起源都可以追溯到20世纪60年代的巴黎，在那里，
 
 ### 汽车制造业 - 发明了计算机算法spline
 
-![spline](images/9-splineHistory/05-CitroenDS-585x341.png)
+![spline](/assets/images/9-splineHistory/05-CitroenDS-585x341.png)
 
 图5：1955年的巴黎车展上，雪铁龙的DS 19亮相。在车展的前15分钟内，就收到了743个订单。
 
@@ -84,7 +93,7 @@ DS不仅仅是流线型的产物。它也是第一辆量产的一体式汽车，
 1959年，雪铁龙聘请Paul de Faget de Casteljau来解决这个缺失的环节。这位年轻的数学家刚从博士学习结束，他的任务是设计出一套方程系统，以便在设计人员和工程师之间可靠地存储和交流形状，并将其输入到驱动新的铣床的原始计算机中。起初，De Casteljau在这个问题上很纠结。他的顿悟是在他意识到，与其说曲线是由点来定义的，不如说曲线是可以通过操作曲线附近的几个点来精确地绘制和控制[x]。当这些影响点被移动时，曲线就会跟着移动，类似于移动固定船工spline的砝码的直观反应。
 
 
-![spline](images/9-splineHistory/06-DeCasteljau-Algorithm-585x304.png)
+![spline](/assets/images/9-splineHistory/06-DeCasteljau-Algorithm-585x304.png)
 
 图6：在de Casteljau的方法中，沿每一个极点（黑色）按比例距离（即2/3的距离）创建点。新的极点(粉红色)连接这些点，然后再一次以相同的比例距离沿这些点创建点。新的极点和点被产生，直到最后剩下一个点为止。这个过程可以在每隔一段时间沿着极点的每一个细分点重复进行，以产生一条平滑的曲线。
 
@@ -98,14 +107,14 @@ De Casteljau的算法是一种递归插值的方法,已经存在于数学表达�
 最主要的是，如何将图纸板上的曲线转化为与早期数字计算机兼容的可靠准确的数学语言？雷诺还发现，在将每辆车的几何图形写入主模型，并将其传输到各个部件中的过程中，内部分歧、修饰、延迟和费用等问题都是充满了争议[xii]。 Bézier知道雪铁龙发现了什么，但他不知道是怎么做的。他解决这个问题的方法与de Casteljau的方法大相径庭，但最终的结果是相似的。早期，雷诺的人依靠经验观察和他的想象力。除了曲线绘图工具之外，他的部门已经开始使用简单的数学构造，就像笛卡尔的网格一样，在上面绘制出规则的数学曲线--弧线、椭圆和抛物线。这些曲线一旦被公式化地嵌入到二维网格中，这些曲线就可以通过数学上的变换来变形。但是，当处理更复杂的现实世界的三维曲线时--例如门板的边缘--就无法应用这种方法。根本的问题仍然是：如何定义三维空间内弯曲和扭曲的自由曲面？
 
 
-![spline](images/9-splineHistory/07-Bezier-585x275.png)
+![spline](/assets/images/9-splineHistory/07-Bezier-585x275.png)
 
 图7：Bézier的技术是由两个相交的圆柱面所产生的曲线（图中的阴影区域。为了清晰起见，省略了圆柱体外的部分）。 这些几何形状可以通过将它们包含在一个立方体中来进行数学定义（左图）。通过对立方体进行数学变换，里面的曲线也会被重塑（右）。在实践中，四个顶点之间的三个向量(粉色、蓝色、黄色)是唯一需要的参数。
 
 Bézier设想了一个房间，在这个房间里，由弹簧、砝码和滑轮悬挂在地板、墙壁和天花板之间的柔性金属挤压物。尽管这个想象中的装置不切实际，但事实证明它在概念上是有用的。一个三维参数曲线可以表示为两个圆柱体的交点（见图7）。这些圆柱体的中心点和弧度点对应于立方体的顶点，包涵了其中的曲线。Bézier发现，通过对外立方体进行数学变换，他可以控制内部曲线的变形。随着他的想法的发展，他发现只需要立方体的三条相连的边就可以构造出不规则的曲线，而且他可以把它们组成多项式。如果要做更复杂的曲线，只需要更多的相互连接的线就可以了。
 
 
-![spline](images/9-splineHistory/08-bezier-postscript-585x429.png)
+![spline](/assets/images/9-splineHistory/08-bezier-postscript-585x429.png)
 
 图8：Bézier cubic spline构成了PostScript和TrueType等桌面出版标准的主要部分。
 
@@ -114,7 +123,7 @@ Bézier设想了一个房间，在这个房间里，由弹簧、砝码和滑轮�
 当然，汽车作为一种三维形式，并不仅仅是由一系列的复合曲线来定义。例如，钣金车身板，几乎每一点的曲率都是不同的。只定义每个零件的周长曲线并不能描述其内部轮廓。为了构造自由曲面，Bézier发现参考一种古老的铸造技术是有用的，它是用来在铸件上产生可变曲面的。将沙子装入一个敞开的木箱中。箱子的两个对立的顶部边缘是弯曲的，这样，当木板或模板拖过它们时，就会刮掉剩余的沙子，留下一个光滑的弧形表面。
 
 
-![spline](images/9-splineHistory/09-Bezier-surface-585x585.png)
+![spline](/assets/images/9-splineHistory/09-Bezier-surface-585x585.png)
 
 图9：Bézier将多项式曲线组合成三维曲面。以一个点的网格（黑色）为例，他在一个方向上建立了一组曲线（黄色）。沿着这些轨道等比例的点(蓝色)形成了向相反方向行驶的曲线(粉红色)。在每一个比例的距离上递归扫过这些轨道，就定义了一个曲面。底层的点的 "网 "可以很容易地、直观地处理，从而形成一个曲面。
 
@@ -123,7 +132,7 @@ Bézier推测，只要能在模板被拖过导轨时调节模板的形状，任�
 通用汽车公司当时的困境与法国汽车制造商的困境相似。到了1959年，该公司已经获得了数控铣床，但缺乏一种数学语言来输入流线型汽车的复杂形状，而这些汽车的尾翼和造型都是太空时代的尾翼的造型。Carl de Boor，通用汽车公司的研究人员，设计出了一种用于B-splines的递归方法，这是一种相当隐晦的数学函数，由I. Schoenberg在20世纪40年代首次提出（尽管数学发展可以追溯到19世纪），用于顺利地---尽管很费力地--绘制精算数据的图形。在GM公司，B-Splines的强大灵活性和卓越的控制力通过递归计算速度真正释放了出来。
 
 
-![b-spline](images/9-splineHistory/10-b-spline-585x366.png)
+![b-spline](/assets/images/9-splineHistory/10-b-spline-585x366.png)
 
 图10：闭合的 cubic B-splien。六个曲线段分别由四个点控制（每个控制点的颜色相对面积代表影响的大小）。事实上，每个节之间的曲线段（黑钻石）共享受其他曲线段影响的点，将它们融合成一条连续的平滑的spline。
 
@@ -131,7 +140,7 @@ Bézier推测，只要能在模板被拖过导轨时调节模板的形状，任�
 
 ### 航空航天 - 寻找通用语言
 
-![mustang](images/9-splineHistory/15-Mustang-P51-585x285.png)
+![mustang](/assets/images/9-splineHistory/15-Mustang-P51-585x285.png)
 
 图 : Mustang P51的几何图形是以数字形式存储在表格中，而不是纸质蓝图。
 
@@ -140,7 +149,7 @@ Bézier推测，只要能在模板被拖过导轨时调节模板的形状，任�
 在第二次世界大战期间，在机库中loft飞机（很多术语和技术都是从造船业中继承下来的）成为一种战略负担。一颗炸弹就能把战术上至关重要的飞机的主模板毁掉。[xviii] 此外，图纸可能被盗取或拍照，无法加密。Roy Liming是二战期间的一名航空航天工程师，他在北美航空公司（战后成为波音公司的一部分）工作，该公司生产战斗机，如野马战斗机。通过将参数化的圆锥体转换为算法，每架飞机的关键几何形状可以用数字存储在表格中，而不是纸质蓝图。这变得很有优势，因为数字可以安全地存储，并且很容易传输。此外，它们提供了效率、准确性、可重复性和安全性。
 
 
-![conics](images/9-splineHistory/11-Conics-585x351.png)
+![conics](/assets/images/9-splineHistory/11-Conics-585x351.png)
 
 图11：圆锥是在平面和圆锥的各种可能的交点处计算出的数学曲线。
 
@@ -151,7 +160,7 @@ Bézier推测，只要能在模板被拖过导轨时调节模板的形状，任�
 该小组很快就意识到他们的目标应该是一个单一的、全面的曲线表示，而不是十一个单独的曲线表示。他们设计出了合理的贝齐尔曲线--合理的意思是每个控制点的权重比可以变化（见图12）。可变权重比使得精确绘制圆锥体以及圆柱体和平面部分成为可能。几年前，S. Coons在锡拉丘兹大学的博士生们将B-Spline模型扩展到有理和非均匀模型。波音公司将非均匀的B-Spline---其结点沿曲线非均匀分布--纳入了他们的新表示方式。这种特性可以通过在一个位置放置多个结，在spline中引入尖角，有效地将曲线固定在该点上的角上。波音公司的团队找到了一种将有理Bézier曲线和非均匀B型曲线结合在一起的方法。到1981年，他们设计出了一种新的几何模型，可以满足波音公司的所有需求，从简单的线和圆，到最复杂的自由曲面和曲面。这种新的数学模型被称为非均匀有理基线花键，简称NURBS。
 
 
-![nurbs](images/9-splineHistory/12-NURBS-weight-585x323.png)
+![nurbs](/assets/images/9-splineHistory/12-NURBS-weight-585x323.png)
 
 图12：NURBS的理性控制点可以单独加权。黑色点的权重从0.001（粉红色）到1,000（蓝色）不等。
 
@@ -163,7 +172,7 @@ NURBS很快被工程师和设计人员所采用。同年，波音公司的研究
 
 《玩具总动员》中的每一个角色--比如牛仔娃娃Woody--都是由单独的NURBS表面拼接而成。每一个角色都必须经过巧妙的修剪和塑造，以创造出与下一个角色完美融合的假象。这个过程既昂贵、耗时，又容易出错。更糟糕的是，在动画制作过程中，人物的接缝处会出现笨拙地凸起或裂开的情况，需要花费数小时的人工逐帧校正。在下一部动画短片《Geri's Game》（1997年）中，皮克斯尝试了不同的方法，用细分曲面来塑造人物的形象。[xxi]
 
-![subdivison](images/9-splineHistory/13-Subdivisional-Smoothing-585x223.png)
+![subdivison](/assets/images/9-splineHistory/13-Subdivisional-Smoothing-585x223.png)
 
 图13：细分曲面。原始网格被逐步细分为平滑形式，即使是复杂的拓扑结构也是如此。
 
@@ -173,7 +182,7 @@ Subdivision曲面建立在16年前Edwin Catmull（迪士尼和皮克斯动画工
 
 动画师向细分建模的迁移，是他们的行业技术与设计的分水岭。设计师和工程师继续青睐于NURBS，因为它提供了他们在精确制造现实生活中的产品所需要的精确曲率控制。动画师--他们只需要关注一个移动的形状如何在屏幕上出现--已经很高兴地放弃了这种控制，转而青睐于细分曲面提供的艺术灵活性和速度。针对航空航天、汽车和产品设计市场的软件提供了一系列基于NURBS的复杂的参数化建模工具，这些工具的外观和行为有点像细分曲面，但从根本上来说，它们仍然受制于NURBS的底层拓扑结构。
 
-![t-spline](images/9-splineHistory/14-Development-of-Computation-Spline-V4-585x304.png)
+![t-spline](/assets/images/9-splineHistory/14-Development-of-Computation-Spline-V4-585x304.png)
 
 图14：T-Spline。虚线代表了通过数学归纳得出的后来的关系。
 
@@ -198,8 +207,7 @@ T-Splines承诺[xxv]，通过将NURBS的精度和控制与细分曲面建模的�
 
 spline和流动的表面不容易让人产生规则和范式，因为它们似乎缺乏有限的尺寸--边、角、边、顶、墙等。在讨论建筑设计时，我们也很难用文字来形容曲率。像造船、汽车和航空设计这样的性能驱动型行业，更能理解曲率的可量化（更不用说高度市场化）的好处。研究spline的历史发展轨迹，可以为当代建筑形式的发展提供一个更全面的视角，作为人类几何学进步的一个延续。spline的每一次新的迭代都调和了不同的模型，使其向通用几何学迈进了一步。随着计算继续侵蚀建筑的形式限制，曲率很快就会变得不起眼，就像我们日常消费的许多塑料制品一样：一次性剃须刀、电脑鼠标、洗洁精瓶、水壶、塑料玩具等等...除去几何学上的矫情，建筑师们可能会因为其微妙的复杂性、结构的优雅，以及（我敢说）纯粹的美感而拥护这种spline形式。
 
-
-![book](images/9-splineHistory/51rNMUqetlL-285x356.jpg)
+![book](/assets/images/9-splineHistory/51rNMUqetlL-285x356.jpg)
 
 [This article was originally published in the International Journal of Interior Architecture + Spatial Design, Applied Geometries (Jonathon Anderson & Meg Jackson, 2014).]
 
@@ -233,7 +241,7 @@ xivYoung, David. (1997). Garrett Birkhoff and Applied Mathematics. Notices of th
 
 
 ###  DeBoor曲线算法
-![deboor](images/9-splineHistory/spline-1.png)
+![deboor](/assets/images/9-splineHistory/spline-1.png)
 
 文中提到了DeBoor曲线算法, 它拓展了Bézier与de Casteljau 曲线.  
 本文的中文编辑马海东开发了Grasshopper插件.   
@@ -248,9 +256,9 @@ xivYoung, David. (1997). Garrett Birkhoff and Applied Mathematics. Notices of th
 
 ### 建筑师编程课推广
 
-**[ikuku精选课 Python4Rhino 建筑师编程课 2020.6.27开始线上直播！讲师:马海东](http://www.ikuku.cn/activity/python4rhino3)**
+**[ikuku精选课 Python4Rhino 建筑师编程课 2020.8.16开始线上直播！讲师:马海东](https://item.taobao.com/item.htm?id=612510660299)**
 
-![python tutorial](./images/9-splineHistory/pyClass.jpg)
+![python tutorial](/assets/images/9-splineHistory/pyClass.jpg)
 
 
 
