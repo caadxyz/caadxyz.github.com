@@ -252,6 +252,7 @@ xivYoung, David. (1997). Garrett Birkhoff and Applied Mathematics. Notices of th
 * [建筑师为什么要会python编程?](http://www.ikuku.cn/article/jianzhushiweishenmyhpythonbc)
 * [Caad4Rhino:建筑绘图工具插件](http://www.ikuku.cn/article/caad4rhinojzhtgjcj)
 * [Rhino及Bob McNeel的故事(转载)](http://www.ikuku.cn/article/rhinoandbobmcneeldegushi)
+* [曲线系列: 计算机曲线spline简史(转载)](http://www.ikuku.cn/article/jisuanjiquxianjianshi)
 
 
 ### 建筑师编程课推广
