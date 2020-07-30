@@ -158,6 +158,7 @@ grasshopper数据流的编程范式,天生拥有并行并发优势,同时图像�
 1. https://www.geeksforgeeks.org/programming-paradigms-in-python  
 1. https://en.wikipedia.org/wiki/Programming_paradigm  
 1. http://www.cs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/DataFlowProgrammingLanguages.pdf  
+1. http://www.globalnerdy.com/2019/12/10/worth-watching-videos-on-programming-paradigms-and-object-oriented-vs-functional-programming/
 
 
 
