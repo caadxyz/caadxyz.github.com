@@ -16,6 +16,6 @@ https://tatasz.github.io/compound_ca2/
 
 ### game of life
 
-### happiness
+### happiness rule
 
 ### future
