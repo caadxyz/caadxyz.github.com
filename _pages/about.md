@@ -8,8 +8,9 @@ description: We make things...
 
 **Making CAAD Things:**
 
-* [caad tools for rhino3d](https://github.com/caadxyz/caad4rhino)
+* [caad4rhino](https://github.com/caadxyz/caad4rhino)
 * [DeBoor Algorithm for Nurbs](https://github.com/caadxyz/DeBoorAlgorithmNurbs)
+* [Python Shell for Rhino](https://github.com/caadxyz/RhinoPythonShell) 
 * [opencascade viewer](https://github.com/caadxyz/glfwOcctViewer) 
 
 **Provide CAAD Service:**
