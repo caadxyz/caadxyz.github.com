@@ -176,4 +176,3 @@ grasshopper数据流的编程范式,天生拥有并行并发优势,同时图像�
 ![python tutorial](/assets/images/11-computationalDesign/pyClass.jpg)
 
 
-

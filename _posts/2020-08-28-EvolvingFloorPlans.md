@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "算法: 平面图生成(转载)"
+title: "算法: 平面图自动生成(转载)"
 permalink: "blog/evolving-floorplans"
 categories:
   - zh
@@ -87,4 +87,21 @@ EFP方法也可以用于其他功能的布置，如办公室布局或医院。�
 
 * 项目代码: https://github.com/joel-simon/evo_floorplans    
 * 原文连接: https://www.joelsimon.net/evo_floorplans.html
+
+
+### 相关文章
+
+* [建筑师为什么要会python编程?](http://www.ikuku.cn/article/jianzhushiweishenmyhpythonbc)
+* [Caad4Rhino:建筑绘图工具插件](http://www.ikuku.cn/article/caad4rhinojzhtgjcj)
+* [Rhino及Bob McNeel的故事(转载)](http://www.ikuku.cn/article/rhinoandbobmcneeldegushi)
+* [计算机曲线spline简史(转载)](http://www.ikuku.cn/article/jisuanjiquxianjianshi)
+* [漫谈算法设计(computational design)与脚本语言(grasshopper, python)](http://www.ikuku.cn/post/1878164)
+
+### 建筑师编程课推广
+
+**[ikuku精选课 Python4Rhino 建筑师编程课 2020.9.26开始线上直播！讲师:马海东](https://item.taobao.com/item.htm?id=612510660299)**
+
+![python tutorial](/assets/images/13-evolvingFloorplans/pyClass.jpg)
+
+
 
