@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "RhinoPython Shell"
+title: "RhinoPythonShell"
 permalink: "blog/rhino-python-shell-en"
 categories:
   - en
@@ -14,6 +14,7 @@ comments_id: 14
 * Verion alpha 0.0.2
 * Copyright (c) 2019-2020 mahaidong
 * Supported by ikuku.cn & caad.xyz 
+* [中文](/blog/rhino-python-shell-zh)
 
 The RhinoPythonShell is the one of answer for where is the python **REPL** environment for Rhino3d?
 
