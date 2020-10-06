@@ -243,3 +243,13 @@ Z轴和Y轴的旋转矩阵与X轴矩阵的行为方式相同。
 * https://www.mathsisfun.com/algebra/matrix-multiplying.html
 * https://jsantell.com/model-view-projection
 
+
+### 相关文章
+
+* [建筑师为什么要会python编程?](http://www.ikuku.cn/article/jianzhushiweishenmyhpythonbc)
+* [Caad4Rhino:建筑绘图工具插件](http://www.ikuku.cn/article/caad4rhinojzhtgjcj)
+* [Rhino及Bob McNeel的故事(转载)](http://www.ikuku.cn/article/rhinoandbobmcneeldegushi)
+* [计算机曲线spline简史(转载)](http://www.ikuku.cn/article/jisuanjiquxianjianshi)
+* [漫谈算法设计(computational design)与脚本语言(grasshopper, python)](http://www.ikuku.cn/post/1878164)
+* [算法: 平面图自动生成(转载)](http://www.ikuku.cn/post/1878615)
+* [什么是齐次坐标?](http://www.ikuku.cn/post/1879529)
