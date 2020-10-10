@@ -253,3 +253,14 @@ Z轴和Y轴的旋转矩阵与X轴矩阵的行为方式相同。
 * [漫谈算法设计(computational design)与脚本语言(grasshopper, python)](http://www.ikuku.cn/post/1878164)
 * [算法: 平面图自动生成(转载)](http://www.ikuku.cn/post/1878615)
 * [什么是齐次坐标?](http://www.ikuku.cn/post/1879529)
+
+
+### 建筑师编程课推广
+
+**[ikuku精选课 Python4Rhino 建筑师编程课 2020.11.15开始线上直播！讲师:马海东](https://item.taobao.com/item.htm?id=612510660299)**
+
+![python tutorial](/assets/images/13-evolvingFloorplans/pyClass.jpg)
+
+
+
+
