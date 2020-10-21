@@ -1,6 +1,15 @@
-# 建筑师编程课(第五期)
+---
 
-![cover](./images/pycover7.png)
+layout: post
+title: "建筑师编程课(第六期)"
+permalink: "blog/python4rhino-zh"
+categories:
+  - zh
+comments_id: 16
+
+---
+
+![cover](/assets/images/python4rhino/pycover8.png)
 
 **导师简介**
 
@@ -22,16 +31,16 @@
 1. 学生已经掌握一些基本的rhino知识或者其他类似的3d建模软软件
 1. grasshopper零基础，python零基础
 1. 学习期间要求学生提交的主要课程作业有:
-    * Grasshopper  参数化几何形体建模
-    * Rhino.python 算法设计
-    * Final Project(期终作业) 
+    - Grasshopper  参数化几何形体建模
+    - Rhino.python 算法设计
+    - Final Project(期终作业) 
 
 **适合人群**: 建筑设计领域的学生与从业人员, 设计与制造相关领域的学生与从业人员
 
 ### 日程安排及学费
 
 * 线上**腾讯课堂**
-* **9月26日-11月28日**,每个周六的晚上20:00-23:00, 总学时30个课时
+* **2020年11月15日-2021年1月17日**,每个周日的晚上20:00-23:00, 总学时30个课时
 * 节假日可以与学生商量具体合适的时间
 * 学费: 1500元
 * 学员: 不超过30人
@@ -81,13 +90,13 @@ Scripting简介
 
 **第三周**
 
-* Gh: Range vs. Series vs. Interval
+* Gh: Range & Series & Interval
 * Gh: 数据流匹配
 * Gh: Datatree
 * Py: Tuples,List,Dictionaries,Set: Points and Vectors
 * Py: io & error
-* Py: 面向对象简介　
 * Py: 函数定义及调用(2)
+* Py: 面向对象简介　
 * Py: 算法一:递归与分形,树
 
 
@@ -155,36 +164,36 @@ Scripting简介
 ### 教学案例
 
 **grasshopper组件**: 数据流  
-![gh_01](./images/gh_01.png)
+![gh_01](/assets/images/python4rhino/gh_01.png)
 
 **python基础**: patten
-![pattern](./images/py_pattern.png)
+![pattern](/assets/images/python4rhino/py_pattern.png)
 
 **python基础**: 递归与分形  
-![tree](./images/py_tree.png)
-![recursion](./images/py_recursion.jpg)
+![tree](/assets/images/python4rhino/py_tree.png)
+![recursion](/assets/images/python4rhino/py_recursion.jpg)
 
 **python, grasshopper**: 遍历数组,datatree
-![py_01](./images/py_01.png)
+![py_01](/assets/images/python4rhino/py_01.png)
 
 **python基础**: 图片数据读取与分析
-![readimage](./images/readimage.png)
+![readimage](/assets/images/python4rhino/readimage.png)
 
 **python面向对象编程**: 物理模拟    
-![py_simulate0](./images/py_simulate.jpg)
+![py_simulate0](/assets/images/python4rhino/py_simulate.jpg)
 
 **python面向对象编程**: 物理模拟    
-![py_simulate1](./images/field02.png)
+![py_simulate1](/assets/images/python4rhino/field02.png)
 
 **python面向对象编程**: 元细胞自动机  
-![py_simulate](./images/ac.jpg)
+![py_simulate](/assets/images/python4rhino/ac.jpg)
 
 **工具库开发**: 画墙线,开门窗,标尺寸  
 https://github.com/caadxyz/caad4rhino  
-![wall](./images/wall.gif)
-![line2wall](./images/line2wall.gif)
-![opening](./images/opening.gif)
-![dim](./images/dim.gif)
+![wall](/assets/images/python4rhino/wall.gif)
+![line2wall](/assets/images/python4rhino/line2wall.gif)
+![opening](/assets/images/python4rhino/opening.gif)
+![dim](/assets/images/python4rhino/dim.gif)
 
 ### 参考资料  
 
