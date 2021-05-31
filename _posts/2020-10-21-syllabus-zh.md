@@ -9,7 +9,7 @@ comments_id: 16
 
 ---
 
-![cover](/assets/images/python4rhino/pycover8.jpg)
+![cover](/assets/images/python4rhino/p4r8.jpg)
 
 **导师简介**
 
